@@ -21,12 +21,7 @@
 
 This repository contains **Core Java programs** developed for **learning, practice, and academic preparation (2026)**.
 
-It focuses on building a **strong foundation in Java**, covering everything from **basic syntax** to **object-oriented programming** and **real-world concepts**, making it suitable for:
-
-- College exams & viva  
-- Interview preparation  
-- Daily Java practice  
-- Beginner-friendly learning  
+It focuses on strengthening **Java fundamentals**, understanding **object-oriented programming concepts**, and preparing students for **examinations, viva, and technical interviews**.
 
 ---
 
@@ -61,14 +56,13 @@ The topics are arranged in a **logical learning sequence** to help learners prog
 
 ## 🎯 Purpose of This Repository
 
-- 📚 Academic learning & structured revision  
-- 🧠 Concept clarity with hands-on coding  
-- 💼 Interview & placement readiness  
-- 📝 Reference material for Core Java learners  
-
+- 📚 Academic learning and revision  
+- 🧠 Strong understanding of Core Java concepts  
+- 💼 Interview and placement preparation  
+- 📝 Reference material for beginners in Java  
 ---
 
-## 📂 Repository Structure (Clickable)
+## 📂 Repository Structure
 
 Each folder represents a **specific Core Java concept**:
 
