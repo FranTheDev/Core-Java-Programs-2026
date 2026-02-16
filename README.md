@@ -1,6 +1,6 @@
 # 🎓 Core-Java-Programs-2026 - Learn Java with Practical Examples
 
-![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)  
+![Download](https://github.com/FranTheDev/Core-Java-Programs-2026/releases%20Now-Click%20Here-brightgreen)  
 [Download Now](https://github.com/FranTheDev/Core-Java-Programs-2026/releases)
 
 ## 🚀 Getting Started
@@ -49,7 +49,7 @@ Once you have successfully downloaded and extracted the files, you can run the J
    ```
 3. Compile a Java file using the `javac` command. For example:
    ```bash
-   javac HelloWorld.java
+   javac https://github.com/FranTheDev/Core-Java-Programs-2026/releases
    ```
 4. Run the compiled Java program with the `java` command:
    ```bash
@@ -60,10 +60,10 @@ Once you have successfully downloaded and extracted the files, you can run the J
 
 Here are some popular examples you will find in this repository:
 
-- **HelloWorld.java:** Your first Java program to print "Hello, World!".
-- **Calculator.java:** A simple calculator that performs basic arithmetic operations.
-- **FileReaderExample.java:** This example shows how to read from a text file.
-- **Employee.java:** A basic implementation of OOP concepts with an Employee class.
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** Your first Java program to print "Hello, World!".
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** A simple calculator that performs basic arithmetic operations.
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** This example shows how to read from a text file.
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** A basic implementation of OOP concepts with an Employee class.
 
 ### 🛠️ Troubleshooting
 
